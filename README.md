@@ -1,2 +1,2 @@
-# personal-portfolio
-I developed this portfolio webpage using HTML and CSS
+# Srajan-Profile
+This is my profile page for college submission
