@@ -1,2 +1,2 @@
-# Srajan-Profile
+# pavan-Profile
 This is my profile page for college submission
